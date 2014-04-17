@@ -15,6 +15,7 @@ public class Holanoe {
        JOptionPane.showInputDialog("Holaaaa WNS");
        JOptionPane.showInputDialog("Holaaaa WNS2-0");
        System.out.println("hola ivanod :D");
+        JOptionPane.showInputDialog("funciona");
     }
     
 }
