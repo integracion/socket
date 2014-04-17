@@ -14,7 +14,7 @@ public class Holanoe {
        System.out.println("hola ivan :D");
        JOptionPane.showInputDialog("Holaaaa WNS");
        JOptionPane.showInputDialog("Holaaaa WNS2-0");
-       System.out.println("hola ivanox :D");
+       System.out.println("hola ivanod :D");
     }
     
 }
