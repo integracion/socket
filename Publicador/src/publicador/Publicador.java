@@ -24,7 +24,7 @@ public class Publicador
             Socket publicador = new Socket("localhost",4500);
             ObjectOutputStream mensaje = new ObjectOutputStream(publicador.getOutputStream());
             /*   envia un mensaje a travez del outputstream del publicador   */
-            String msn = JOptionPane.showInputDialog("Publique su opinion sobre la Universidad");
+            String msn = JOptionPane.showInputDialog("Publique su opinion sobre la Universidat");
             mensaje.writeObject(msn);
         } 
         
